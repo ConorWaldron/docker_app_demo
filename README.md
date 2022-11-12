@@ -1,4 +1,9 @@
+Notes from Conor, this isnt working for me, but I think it is because I 
+do not have the node_modules subdirectory that I see in the video at 
+2:03:54 https://www.youtube.com/watch?v=3c-iBn73dDE
+
 ## demo app - developing with Docker
+
 
 This demo app shows a simple user profile app set up using 
 - index.html with pure js and css styles
